@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nuzhatshaikh15
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Bachelor of Computer Science
-- ⚡ Fun fact: I am very Dull
+- ⚡ Fun fact: I am simple 
 
 <!---
 nuzhatshaikh15/nuzhatshaikh15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
